@@ -15,3 +15,13 @@ img{
   width: 100px;
   height: 100px;
 }
+
+audio {
+  margin-left: 50px;
+}
+
+video {
+  width: 98%;
+  height: 200px;
+  border-radius: 10px;
+}
